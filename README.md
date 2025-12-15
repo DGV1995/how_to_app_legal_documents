@@ -50,8 +50,7 @@ HowTo Repair Assistant is a mobile application that uses artificial intelligence
 ## 📧 Contact
 
 For questions or concerns about these legal documents:
-- Email: support@howtorepair.app
-- Website: https://howtorepair.app
+- Email: steam@myappdesk.dev
 
 ## 📅 Last Updated
 
