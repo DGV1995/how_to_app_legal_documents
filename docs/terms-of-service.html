@@ -35,9 +35,35 @@
             padding: 15px;
             margin: 20px 0;
         }
+        .nav {
+            background-color: #f9fafb;
+            padding: 15px;
+            margin: -20px -20px 30px -20px;
+            border-bottom: 2px solid #e5e7eb;
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        .nav a {
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        .nav a:hover {
+            background-color: #e0e7ff;
+        }
+        .nav-home {
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
+    <nav class="nav">
+        <a href="index.html" class="nav-home">← Home</a>
+        <a href="privacy-policy.html">Privacy Policy</a>
+    </nav>
     <h1>Terms of Service</h1>
     <p class="last-updated">Last Updated: December 15, 2025</p>
 
